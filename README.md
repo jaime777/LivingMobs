@@ -2,7 +2,7 @@ LivingMobs
 ==========
 
 
-**Geolocalizacion**
+**Dona Datos**
 
 Aplicacion que almacena coordenas en base de datos SQLite
 
